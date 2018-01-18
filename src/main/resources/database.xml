@@ -9,6 +9,6 @@
     <context:component-scan base-package="ru" />
     <context:annotation-config />
 
-    <bean id="main" class="ru.MyComponent"/>
+    <bean class="ru.MyComponent"/>
 
 </beans>
